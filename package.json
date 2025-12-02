@@ -1,0 +1,44 @@
+{
+  "name": "resonance-haunt",
+  "version": "1.0.0",
+  "description": "Ambient AI memory visualization with ghostly watcher",
+  "main": "electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "electron": "electron .",
+    "start": "concurrently \"npm run dev\" \"wait-on http://localhost:5173 && electron .\"",
+    "build": "vite build && electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "build": {
+    "appId": "com.resonance.haunt",
+    "productName": "Resonance Haunt",
+    "directories": { "output": "dist" },
+    "files": ["dist/**/*", "node_modules/**/*", "electron/**/*", "index.html"],
+    "win": { "target": "nsis" },
+    "mac": { "target": "dmg" },
+    "linux": { "target": "AppImage" }
+  },
+  "dependencies": {
+    "electron": "^28.0.0",
+    "three": "^0.159.0",
+    "@react-three/fiber": "^8.15.12",
+    "@react-three/drei": "^9.92.7",
+    "framer-motion": "^10.16.16",
+    "lucide-react": "^0.293.0",
+    "ws": "^8.14.2",
+    "screenshot-desktop": "^1.1.4",
+    "sharp": "^0.33.0"
+  },
+  "devDependencies": {
+    "electron-builder": "^24.9.1",
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.1.1",
+    "typescript": "^5.3.3",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "@types/node": "^20.10.5",
+    "concurrently": "^8.2.2",
+    "wait-on": "^7.2.0"
+  }
+}
