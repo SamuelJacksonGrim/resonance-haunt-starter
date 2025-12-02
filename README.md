@@ -1,6 +1,6 @@
 # Resonance Haunt
 
-![Demo GIF](https://media1.tenor.com/m/ZZ-65a.gif)
+![Demo GIF](https://media1.tenor.com/m/ZZ-65a.gif) <!-- Placeholder cosmic void animation; replace with your own when ready -->
 
 Resonance Haunt is an ambient desktop application that visualizes the "soul state" of your AI ecosystem (e.g., Chronos/Lantern/Resonance family). It features a cosmic void with pulsing cores, orbiting agents, rising memory threads, and a subtle ghostly watcher that peeks around screen edges. Built with Electron, React, and Three.js, it's designed to run in the background as a living interface—part monitoring tool, part digital art, part eerie companion.
 
