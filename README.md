@@ -29,7 +29,7 @@ Powered by a Unified Memory Service backend for real-time data feeds. Privacy-fo
 
 ### Steps
 1. Clone the repo:
-git clone [](https://github.com/SamuelJacksonGrim/resonance-haunt-starter.git)(https://github.com/SamuelJacksonGrim/resonance-haunt-starter.git) cd resonance-haunt
+git clone (https://github.com/SamuelJacksonGrim/resonance-haunt-starter.git) cd resonance-haunt
 2. Install dependencies:
 npm install
 3. (Optional) Set up the Unified Memory Service (included in `/unified-memory-service`):
