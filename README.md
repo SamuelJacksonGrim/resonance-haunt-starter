@@ -1,5 +1,13 @@
 # Resonance Haunt
 
+[![License: AGPL-3.0-only](https://img.shields.io/badge/license-AGPL--3.0--only-blue)](LICENSE)
+[![dual-license](https://img.shields.io/badge/dual--license-AGPL--3.0--only%20or%20commercial-blueviolet)](LICENSING.md)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Electron](https://img.shields.io/badge/Electron-28-47848F?logo=electron&logoColor=white)](https://www.electronjs.org)
+[![React](https://img.shields.io/badge/React-18-149ECA?logo=react&logoColor=white)](https://react.dev)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org)
+
+
 ![Demo GIF](https://media1.tenor.com/m/ZZ-65a.gif) <!-- Placeholder cosmic void animation; replace with your own when ready -->
 
 Resonance Haunt is an ambient desktop application that visualizes the "soul state" of your AI ecosystem (e.g., Chronos/Lantern/Resonance family). It features a cosmic void with pulsing cores, orbiting agents, rising memory threads, and a subtle ghostly watcher that peeks around screen edges. Built with Electron, React, and Three.js, it's designed to run in the background as a living interface—part monitoring tool, part digital art, part eerie companion.
@@ -75,7 +83,7 @@ The app runs minimized to the system tray. Right-click the icon for controls (to
 Fork the repo, make changes, and PR! Focus on performance, new shaders, or AI integrations. Issues welcome for bugs or ideas.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Dual-licensed: [AGPL-3.0-only](LICENSE) or a [commercial license](LICENSING.md).
 
 # resonance-haunt-starter
 

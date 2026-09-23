@@ -1,4 +1,5 @@
 {
+  "license": "AGPL-3.0-only",
   "name": "unified-memory-service",
   "version": "1.0.0",
   "description": "Unified Memory Service - Neural substrate for Chronos/Lantern/Resonance Family",

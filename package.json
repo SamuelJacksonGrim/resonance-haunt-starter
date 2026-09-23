@@ -1,4 +1,5 @@
 {
+  "license": "AGPL-3.0-only",
   "name": "resonance-haunt",
   "version": "1.0.0",
   "description": "Ambient AI memory visualization with ghostly watcher",
