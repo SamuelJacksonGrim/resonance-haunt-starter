@@ -7,6 +7,15 @@
 [![React](https://img.shields.io/badge/React-18-149ECA?logo=react&logoColor=white)](https://react.dev)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)](https://threejs.org)
 
+## License
+
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
 
 ![Demo GIF](https://media1.tenor.com/m/ZZ-65a.gif) <!-- Placeholder cosmic void animation; replace with your own when ready -->
 
@@ -81,9 +90,6 @@ The app runs minimized to the system tray. Right-click the icon for controls (to
 
 ## Contributing
 Fork the repo, make changes, and PR! Focus on performance, new shaders, or AI integrations. Issues welcome for bugs or ideas.
-
-## License
-Dual-licensed: [AGPL-3.0-only](LICENSE) or a [commercial license](LICENSING.md).
 
 # resonance-haunt-starter
 
